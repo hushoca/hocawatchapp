@@ -1,9 +1,6 @@
 About
 -------------
 
-HERE IS SOME SCREEN SHOTS OF THIS APP'S CURRENT STATE:
-
-
 I am designing a smart watch as my final year project which consists of:
 
 - Designing a full circuit
